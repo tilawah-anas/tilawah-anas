@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "title": "Surah Al-Fatiha",
+    "translation": "The Opening",
+    "title_ar": "سورة الفاتحة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/001.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Surah Al-Baqarah",
+    "translation": "The Cow",
+    "title_ar": "سورة البقرة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/002.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Surah Ali 'Imran",
+    "translation": "Family of Imran",
+    "title_ar": "سورة آل عمران",
+    "audio_url": "https://archive.org/download/complete-quran-anas-al-emadi/003.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Surah An-Nisa",
+    "translation": "The Women",
+    "title_ar": "سورة النساء",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/004.mp3"
+  },
+  {
+    "id": 5,
+    "title": "Surah Al-Ma'idah",
+    "translation": "The Table Spread",
+    "title_ar": "سورة المائدة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/005.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Surah Al-An'am",
+    "translation": "The Cattle",
+    "title_ar": "سورة الأنعام",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/006.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Surah Al-A'raf",
+    "translation": "The Heights",
+    "title_ar": "سورة الأعراف",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/007.mp3"
+  },
+  {
+    "id": 8,
+    "title": "Surah Al-Anfal",
+    "translation": "The Spoils of War",
+    "title_ar": "سورة الأنفال",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/008.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Surah At-Tawbah",
+    "translation": "The Repentance",
+    "title_ar": "سورة التوبة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/009.mp3"
+  },
+  {
+    "id": 10,
+    "title": "Surah Yunus",
+    "translation": "Jonah",
+    "title_ar": "سورة يونس",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/010.mp3"
+  },
+  {
+    "id": 11,
+    "title": "Surah Hud",
+    "translation": "Hud",
+    "title_ar": "سورة هود",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/011.mp3"
+  },
+  {
+    "id": 12,
+    "title": "Surah Yusuf",
+    "translation": "Joseph",
+    "title_ar": "سورة يوسف",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/012.mp3"
+  },
+  {
+    "id": 13,
+    "title": "Surah Ar-Ra'd",
+    "translation": "The Thunder",
+    "title_ar": "سورة الرعد",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/013.mp3"
+  },
+  {
+    "id": 14,
+    "title": "Surah Ibrahim",
+    "translation": "Abraham",
+    "title_ar": "سورة إبراهيم",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/014.mp3"
+  },
+  {
+    "id": 15,
+    "title": "Surah Al-Hijr",
+    "translation": "The Rocky Tract",
+    "title_ar": "سورة الحجر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/015.mp3"
+  },
+  {
+    "id": 16,
+    "title": "Surah An-Nahl",
+    "translation": "The Bee",
+    "title_ar": "سورة النحل",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/016.mp3"
+  },
+  {
+    "id": 17,
+    "title": "Surah Al-Isra",
+    "translation": "The Night Journey",
+    "title_ar": "سورة الإسراء",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/017.mp3"
+  },
+  {
+    "id": 18,
+    "title": "Surah Al-Kahf",
+    "translation": "The Cave",
+    "title_ar": "سورة الكهف",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/018.mp3"
+  },
+  {
+    "id": 19,
+    "title": "Surah Maryam",
+    "translation": "Mary",
+    "title_ar": "سورة مريم",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/019.mp3"
+  },
+  {
+    "id": 20,
+    "title": "Surah Taha",
+    "translation": "Ta-Ha",
+    "title_ar": "سورة طه",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/020.mp3"
+  },
+  {
+    "id": 21,
+    "title": "Surah Al-Anbya",
+    "translation": "The Prophets",
+    "title_ar": "سورة الأنبياء",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/021.mp3"
+  },
+  {
+    "id": 22,
+    "title": "Surah Al-Hajj",
+    "translation": "The Pilgrimage",
+    "title_ar": "سورة الحج",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/022.mp3"
+  },
+  {
+    "id": 23,
+    "title": "Surah Al-Mu'minun",
+    "translation": "The Believers",
+    "title_ar": "سورة المؤمنون",
+    "audio_url": "https://archive.org/download/complete-quran-anas-al-emadi/023.mp3"
+  },
+  {
+    "id": 24,
+    "title": "Surah An-Nur",
+    "translation": "The Light",
+    "title_ar": "سورة النور",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/024.mp3"
+  },
+  {
+    "id": 25,
+    "title": "Surah Al-Furqan",
+    "translation": "The Criterion",
+    "title_ar": "سورة الفرقان",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/025.mp3"
+  },
+  {
+    "id": 26,
+    "title": "Surah Ash-Shu'ara",
+    "translation": "The Poets",
+    "title_ar": "سورة الشعراء",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/026.mp3"
+  },
+  {
+    "id": 27,
+    "title": "Surah An-Naml",
+    "translation": "The Ant",
+    "title_ar": "سورة النمل",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/027.mp3"
+  },
+  {
+    "id": 28,
+    "title": "Surah Al-Qasas",
+    "translation": "The Stories",
+    "title_ar": "سورة القصص",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/028.mp3"
+  },
+  {
+    "id": 29,
+    "title": "Surah Al-'Ankabut",
+    "translation": "The Spider",
+    "title_ar": "سورة العنكبوت",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/029.mp3"
+  },
+  {
+    "id": 30,
+    "title": "Surah Ar-Rum",
+    "translation": "The Romans",
+    "title_ar": "سورة الروم",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/030.mp3"
+  },
+  {
+    "id": 31,
+    "title": "Surah Luqman",
+    "translation": "Luqman",
+    "title_ar": "سورة لقمان",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/031.mp3"
+  },
+  {
+    "id": 32,
+    "title": "Surah As-Sajdah",
+    "translation": "The Prostration",
+    "title_ar": "سورة السجدة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/032.mp3"
+  },
+  {
+    "id": 33,
+    "title": "Surah Al-Ahzab",
+    "translation": "The Combined Forces",
+    "title_ar": "سورة الأحزاب",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/033.mp3"
+  },
+  {
+    "id": 34,
+    "title": "Surah Saba",
+    "translation": "Sheba",
+    "title_ar": "سورة سبأ",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/034.mp3"
+  },
+  {
+    "id": 35,
+    "title": "Surah Fatir",
+    "translation": "Originator",
+    "title_ar": "سورة فاطر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/035.mp3"
+  },
+  {
+    "id": 36,
+    "title": "Surah Ya-Sin",
+    "translation": "Ya Sin",
+    "title_ar": "سورة يس",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/036.mp3"
+  },
+  {
+    "id": 37,
+    "title": "Surah As-Saffat",
+    "translation": "Those who set the Ranks",
+    "title_ar": "سورة الصافات",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/037.mp3"
+  },
+  {
+    "id": 38,
+    "title": "Surah Sad",
+    "translation": "The Letter Sad",
+    "title_ar": "سورة ص",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/038.mp3"
+  },
+  {
+    "id": 39,
+    "title": "Surah Az-Zumar",
+    "translation": "The Troops",
+    "title_ar": "سورة الزمر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/039.mp3"
+  },
+  {
+    "id": 40,
+    "title": "Surah Ghafir",
+    "translation": "The Forgiver",
+    "title_ar": "سورة غافر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/040.mp3"
+  },
+  {
+    "id": 41,
+    "title": "Surah Fussilat",
+    "translation": "Explained in Detail",
+    "title_ar": "سورة فصلت",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/041.mp3"
+  },
+  {
+    "id": 42,
+    "title": "Surah Ash-Shuraa",
+    "translation": "The Consultation",
+    "title_ar": "سورة الشورى",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/042.mp3"
+  },
+  {
+    "id": 43,
+    "title": "Surah Az-Zukhruf",
+    "translation": "The Ornaments of Gold",
+    "title_ar": "سورة الزخرف",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/043.mp3"
+  },
+  {
+    "id": 44,
+    "title": "Surah Ad-Dukhan",
+    "translation": "The Smoke",
+    "title_ar": "سورة الدخان",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/044.mp3"
+  },
+  {
+    "id": 45,
+    "title": "Surah Al-Jathiyah",
+    "translation": "The Crouching",
+    "title_ar": "سورة الجاثية",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/045.mp3"
+  },
+  {
+    "id": 46,
+    "title": "Surah Al-Ahqaf",
+    "translation": "The Wind-Curved Sandhills",
+    "title_ar": "سورة الأحقاف",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/046.mp3"
+  },
+  {
+    "id": 47,
+    "title": "Surah Muhammad",
+    "translation": "Muhammad",
+    "title_ar": "سورة محمد",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/047.mp3"
+  },
+  {
+    "id": 48,
+    "title": "Surah Al-Fath",
+    "translation": "The Victory",
+    "title_ar": "سورة الفتح",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/048.mp3"
+  },
+  {
+    "id": 49,
+    "title": "Surah Al-Hujurat",
+    "translation": "The Rooms",
+    "title_ar": "سورة الحجرات",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/049.mp3"
+  },
+  {
+    "id": 50,
+    "title": "Surah Qaf",
+    "translation": "The Letter Qaf",
+    "title_ar": "سورة ق",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/050.mp3"
+  },
+  {
+    "id": 51,
+    "title": "Surah Adh-Dhariyat",
+    "translation": "The Winnowing Winds",
+    "title_ar": "سورة الذاريات",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/051.mp3"
+  },
+  {
+    "id": 52,
+    "title": "Surah At-Tur",
+    "translation": "The Mount",
+    "title_ar": "سورة الطور",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/052.mp3"
+  },
+  {
+    "id": 53,
+    "title": "Surah An-Najm",
+    "translation": "The Star",
+    "title_ar": "سورة النجم",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/053.mp3"
+  },
+  {
+    "id": 54,
+    "title": "Surah Al-Qamar",
+    "translation": "The Moon",
+    "title_ar": "سورة القمر",
+    "audio_url": "https://archive.org/download/complete-quran-anas-al-emadi/054.mp3"
+  },
+  {
+    "id": 55,
+    "title": "Surah Ar-Rahman",
+    "translation": "The Beneficent",
+    "title_ar": "سورة الرحمن",
+    "audio_url": "https://archive.org/download/complete-quran-anas-al-emadi/%D8%B3%D9%88%D8%B1%D8%A9%20%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86%20%D8%A8%D8%B5%D9%88%D8%AA%20%D8%A7%D9%84%D8%B4%D9%8A%D8%AE%20%D8%A3%D9%86%D8%B3%20%D8%A7%D9%84%D8%B9%D9%85%D8%A7%D8%AF%D9%8A%20Anas%20Al%20Emadi%20Chapter%2055%28MP3_160K%29.mp3"
+  },
+  {
+    "id": 56,
+    "title": "Surah Al-Waqi'ah",
+    "translation": "The Inevitable",
+    "title_ar": "سورة الواقعة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/056.mp3"
+  },
+  {
+    "id": 57,
+    "title": "Surah Al-Hadid",
+    "translation": "The Iron",
+    "title_ar": "سورة الحديد",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/057.mp3"
+  },
+  {
+    "id": 58,
+    "title": "Surah Al-Mujadila",
+    "translation": "The Pleading Woman",
+    "title_ar": "سورة المجادلة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/058.mp3"
+  },
+  {
+    "id": 59,
+    "title": "Surah Al-Hashr",
+    "translation": "The Exile",
+    "title_ar": "سورة الحشر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/059.mp3"
+  },
+  {
+    "id": 60,
+    "title": "Surah Al-Mumtahanah",
+    "translation": "She that is to be examined",
+    "title_ar": "سورة الممتحنة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/060.mp3"
+  },
+  {
+    "id": 61,
+    "title": "Surah As-Saf",
+    "translation": "The Ranks",
+    "title_ar": "سورة الصف",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/061.mp3"
+  },
+  {
+    "id": 62,
+    "title": "Surah Al-Jumu'ah",
+    "translation": "Friday",
+    "title_ar": "سورة الجمعة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/062.mp3"
+  },
+  {
+    "id": 63,
+    "title": "Surah Al-Munafiqun",
+    "translation": "The Hypocrites",
+    "title_ar": "سورة المنافقون",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/063.mp3"
+  },
+  {
+    "id": 64,
+    "title": "Surah At-Taghabun",
+    "translation": "The Mutual Disillusion",
+    "title_ar": "سورة التغابن",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/064.mp3"
+  },
+  {
+    "id": 65,
+    "title": "Surah At-Talaq",
+    "translation": "The Divorce",
+    "title_ar": "سورة الطلاق",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/065.mp3"
+  },
+  {
+    "id": 66,
+    "title": "Surah At-Tahrim",
+    "translation": "The Prohibition",
+    "title_ar": "سورة التحريم",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/066.mp3"
+  },
+  {
+    "id": 67,
+    "title": "Surah Al-Mulk",
+    "translation": "The Sovereignty",
+    "title_ar": "سورة الملك",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/067.mp3"
+  },
+  {
+    "id": 68,
+    "title": "Surah Al-Qalam",
+    "translation": "The Pen",
+    "title_ar": "سورة القلم",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/068.mp3"
+  },
+  {
+    "id": 69,
+    "title": "Surah Al-Haqqah",
+    "translation": "The Reality",
+    "title_ar": "سورة الحاقة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/069.mp3"
+  },
+  {
+    "id": 70,
+    "title": "Surah Al-Ma'arij",
+    "translation": "The Ascending Stairways",
+    "title_ar": "سورة المعارج",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/070.mp3"
+  },
+  {
+    "id": 71,
+    "title": "Surah Nuh",
+    "translation": "Noah",
+    "title_ar": "سورة نوح",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/071.mp3"
+  },
+  {
+    "id": 72,
+    "title": "Surah Al-Jinn",
+    "translation": "The Jinn",
+    "title_ar": "سورة الجن",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/072.mp3"
+  },
+  {
+    "id": 73,
+    "title": "Surah Al-Muzzammil",
+    "translation": "The Enshrouded One",
+    "title_ar": "سورة المزمل",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/073.mp3"
+  },
+  {
+    "id": 74,
+    "title": "Surah Al-Muddaththir",
+    "translation": "The Cloaked One",
+    "title_ar": "سورة المدثر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/074.mp3"
+  },
+  {
+    "id": 75,
+    "title": "Surah Al-Qiyamah",
+    "translation": "The Resurrection",
+    "title_ar": "سورة القيامة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/075.mp3"
+  },
+  {
+    "id": 76,
+    "title": "Surah Al-Insan",
+    "translation": "Man",
+    "title_ar": "سورة الإنسان",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/076.mp3"
+  },
+  {
+    "id": 77,
+    "title": "Surah Al-Mursalat",
+    "translation": "Those sent forth",
+    "title_ar": "سورة المرسلات",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/077.mp3"
+  },
+  {
+    "id": 78,
+    "title": "Surah An-Naba",
+    "translation": "The Great News",
+    "title_ar": "سورة النبأ",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/078.mp3"
+  },
+  {
+    "id": 79,
+    "title": "Surah An-Nazi'at",
+    "translation": "Those Who Pull Out",
+    "title_ar": "سورة النازعات",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/079.mp3"
+  },
+  {
+    "id": 80,
+    "title": "Surah 'Abasa",
+    "translation": "He Frowned",
+    "title_ar": "سورة عبس",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/080.mp3"
+  },
+  {
+    "id": 81,
+    "title": "Surah At-Takwir",
+    "translation": "The Overthrowing",
+    "title_ar": "سورة التكوير",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/081.mp3"
+  },
+  {
+    "id": 82,
+    "title": "Surah Al-Infitar",
+    "translation": "The Cleaving",
+    "title_ar": "سورة الإنفطار",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/082.mp3"
+  },
+  {
+    "id": 83,
+    "title": "Surah Al-Mutaffifin",
+    "translation": "The Defrauding",
+    "title_ar": "سورة المطففين",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/083.mp3"
+  },
+  {
+    "id": 84,
+    "title": "Surah Al-Inshiqaq",
+    "translation": "The Splitting Open",
+    "title_ar": "سورة الإنشقاق",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/084.mp3"
+  },
+  {
+    "id": 85,
+    "title": "Surah Al-Buruj",
+    "translation": "The Mansions of the Stars",
+    "title_ar": "سورة البروج",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/085.mp3"
+  },
+  {
+    "id": 86,
+    "title": "Surah At-Tariq",
+    "translation": "The Morning Star",
+    "title_ar": "سورة الطارق",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/086.mp3"
+  },
+  {
+    "id": 87,
+    "title": "Surah Al-A'la",
+    "translation": "The Most High",
+    "title_ar": "سورة الأعلى",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/087.mp3"
+  },
+  {
+    "id": 88,
+    "title": "Surah Al-Ghashiyah",
+    "translation": "The Overwhelming",
+    "title_ar": "سورة الغاشية",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/088.mp3"
+  },
+  {
+    "id": 89,
+    "title": "Surah Al-Fajr",
+    "translation": "The Dawn",
+    "title_ar": "سورة الفجر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/089.mp3"
+  },
+  {
+    "id": 90,
+    "title": "Surah Al-Balad",
+    "translation": "The City",
+    "title_ar": "سورة البلد",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/090.mp3"
+  },
+  {
+    "id": 91,
+    "title": "Surah Ash-Shams",
+    "translation": "The Sun",
+    "title_ar": "سورة الشمس",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/091.mp3"
+  },
+  {
+    "id": 92,
+    "title": "Surah Al-Layl",
+    "translation": "The Night",
+    "title_ar": "سورة الليل",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/092.mp3"
+  },
+  {
+    "id": 93,
+    "title": "Surah Ad-Duhaa",
+    "translation": "The Morning Hours",
+    "title_ar": "سورة الضحى",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/093.mp3"
+  },
+  {
+    "id": 94,
+    "title": "Surah Ash-Sharh",
+    "translation": "The Relief",
+    "title_ar": "سورة الشرح",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/094.mp3"
+  },
+  {
+    "id": 95,
+    "title": "Surah At-Tin",
+    "translation": "The Fig",
+    "title_ar": "سورة التين",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/095.mp3"
+  },
+  {
+    "id": 96,
+    "title": "Surah Al-'Alaq",
+    "translation": "The Clot",
+    "title_ar": "سورة العلق",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/096.mp3"
+  },
+  {
+    "id": 97,
+    "title": "Surah Al-Qadr",
+    "translation": "The Power",
+    "title_ar": "سورة القدر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/097.mp3"
+  },
+  {
+    "id": 98,
+    "title": "Surah Al-Bayyinah",
+    "translation": "The Clear Proof",
+    "title_ar": "سورة البينة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/098.mp3"
+  },
+  {
+    "id": 99,
+    "title": "Surah Az-Zalzalah",
+    "translation": "The Earthquake",
+    "title_ar": "سورة الزلزلة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/099.mp3"
+  },
+  {
+    "id": 100,
+    "title": "Surah Al-'Adiyat",
+    "translation": "The Courser",
+    "title_ar": "سورة العاديات",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/100.mp3"
+  },
+  {
+    "id": 101,
+    "title": "Surah Al-Qari'ah",
+    "translation": "The Calamity",
+    "title_ar": "سورة القارعة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/101.mp3"
+  },
+  {
+    "id": 102,
+    "title": "Surah At-Takathur",
+    "translation": "The Rivalry in world increase",
+    "title_ar": "سورة التكاثر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/102.mp3"
+  },
+  {
+    "id": 103,
+    "title": "Surah Al-'Asr",
+    "translation": "The Declining Day",
+    "title_ar": "سورة العصر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/103.mp3"
+  },
+  {
+    "id": 104,
+    "title": "Surah Al-Humazah",
+    "translation": "The Traducer",
+    "title_ar": "سورة الهمزة",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/104.mp3"
+  },
+  {
+    "id": 105,
+    "title": "Surah Al-Fil",
+    "translation": "The Elephant",
+    "title_ar": "سورة الفيل",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/105.mp3"
+  },
+  {
+    "id": 106,
+    "title": "Surah Quraysh",
+    "translation": "Quraysh",
+    "title_ar": "سورة قريش",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/106.mp3"
+  },
+  {
+    "id": 107,
+    "title": "Surah Al-Ma'un",
+    "translation": "The Small Kindnesses",
+    "title_ar": "سورة الماعون",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/107.mp3"
+  },
+  {
+    "id": 108,
+    "title": "Surah Al-Kawthar",
+    "translation": "The Abundance",
+    "title_ar": "سورة الكوثر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/108.mp3"
+  },
+  {
+    "id": 109,
+    "title": "Surah Al-Kafirun",
+    "translation": "The Disbelievers",
+    "title_ar": "سورة الكافرون",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/109.mp3"
+  },
+  {
+    "id": 110,
+    "title": "Surah An-Nasr",
+    "translation": "The Divine Support",
+    "title_ar": "سورة النصر",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/110.mp3"
+  },
+  {
+    "id": 111,
+    "title": "Surah Al-Masad",
+    "translation": "The Palm Fibre",
+    "title_ar": "سورة المسد",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/111.mp3"
+  },
+  {
+    "id": 112,
+    "title": "Surah Al-Ikhlas",
+    "translation": "The Sincerity",
+    "title_ar": "سورة الإخلاص",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/112.mp3"
+  },
+  {
+    "id": 113,
+    "title": "Surah Al-Falaq",
+    "translation": "The Daybreak",
+    "title_ar": "سورة الفلق",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/113.mp3"
+  },
+  {
+    "id": 114,
+    "title": "Surah An-Nas",
+    "translation": "Mankind",
+    "title_ar": "سورة الناس",
+    "audio_url": "https://cdn.mp3quran.net/audio/anas-emadi/r1/114.mp3"
+  }
+]

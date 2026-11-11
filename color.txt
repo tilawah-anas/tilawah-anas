@@ -1,7 +1,7 @@
 --color-1: #313332;
---primary-2: #E6D7C4;
+--color-2: #E6D7C4;
 --color-3: #CCBAA6;
---primary-4: #AF9E8E;
+--color-4: #AF9E8E;
 --color-5: #474642;
 --color-6: #705E52;
 --color-7: #5F5C57;

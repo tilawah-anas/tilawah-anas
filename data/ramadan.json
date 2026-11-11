@@ -1,0 +1,316 @@
+{
+  "1446": [
+    {
+      "id": 1,
+      "surah": "Surah An Nisa'a 36-147",
+      "surah_ar": "سورة النساء ٣٦ - ١٤٧",
+      "audio_url": ""
+    }
+  ],
+  "1447": [
+    {
+      "id": 1,
+      "title": "Taraweeh Night 1",
+      "title_ar": "صلاة التراويح الليلة ١",
+      "surah": "Surah Al Baqarah 1-112",
+      "surah_ar": "سورة البقرة ١ - ١١٢",
+      "audio_url": "https://archive.org/download/anas-alemadi-ramadan-1447/Night%201.MP3"
+    },
+    {
+      "id": 2,
+      "title": "Taraweeh Night 2",
+      "title_ar": "صلاة التراويح الليلة ٢",
+      "surah": "Baqarah 113 - 215",
+      "surah_ar": "سورة البقرة ١١٣ - ٢١٥",
+      "audio_url": "https://archive.org/download/anas-alemadi-ramadan-1447/Night%202.MP3"
+    },
+    {
+      "id": 3,
+      "title": "Taraweeh Night 3",
+      "title_ar": "صلاة التراويح الليلة ٣",
+      "surah": "Baqarah 216 - 286",
+      "surah_ar": "سورة البقرة ٢١٦ - ٢٨٦",
+      "audio_url": "https://archive.org/download/anas-alemadi-ramadan-1447/Night%203.MP3"
+    },
+    {
+      "id": 4,
+      "title": "Taraweeh Night 4",
+      "title_ar": "صلاة التراويح الليلة ٤",
+      "surah": "Ali-Imran 1 - 136",
+      "surah_ar": "سورة آل عمران ١ - ١٣٦",
+      "audio_url": "https://archive.org/download/anas-alemadi-ramadan-1447/Night%204.MP3"
+    },
+    {
+      "id": 5,
+      "title": "Taraweeh Night 5",
+      "title_ar": "صلاة التراويح الليلة ٥",
+      "surah": "Ali-Imran 137 - 200",
+      "surah_ar": "سورة آل عمران ١٣٧ - ٢٠٠",
+      "audio_url": "https://archive.org/download/anas-alemadi-ramadan-1447/Night%205.MP3"
+    },
+    {
+      "id": 6,
+      "title": "Taraweeh Night 6",
+      "title_ar": "صلاة التراويح الليلة ٦",
+      "surah": "Nisa'a 34-176",
+      "surah_ar": "سورة النساء ٣٤ - ١٧٦",
+      "audio_url": ""
+    },
+    {
+      "id": 7,
+      "title": "Taraweeh Night 7",
+      "title_ar": "صلاة التراويح الليلة ٧",
+      "surah": "Ma'ida",
+      "surah_ar": "سورة المائدة",
+      "audio_url": ""
+    },
+    {
+      "id": 8,
+      "title": "Taraweeh Night 8",
+      "title_ar": "صلاة التراويح الليلة ٨",
+      "surah": "An'aam",
+      "surah_ar": "سورة الأنعام",
+      "audio_url": ""
+    },
+    {
+      "id": 9,
+      "title": "Taraweeh Night 9",
+      "title_ar": "صلاة التراويح الليلة ٩",
+      "surah": "A'raf 1-154",
+      "surah_ar": "سورة الأعراف ١ - ١٥٤",
+      "audio_url": ""
+    },
+    {
+      "id": 10,
+      "title": "Taraweeh Night 10",
+      "title_ar": "صلاة التراويح الليلة ١٠",
+      "surah": "A'raf 155 - Anfal",
+      "surah_ar": "سورة الأعراف ١٥٥ - الأنفال",
+      "audio_url": ""
+    },
+    {
+      "id": 11,
+      "title": "Taraweeh Night 11",
+      "title_ar": "صلاة التراويح الليلة ١١",
+      "surah": "Tauba",
+      "surah_ar": "سورة التوبة",
+      "audio_url": ""
+    },
+    {
+      "id": 12,
+      "title": "Taraweeh Night 12",
+      "title_ar": "صلاة التراويح الليلة ١٢",
+      "surah": "Yunus",
+      "surah_ar": "سورة يونس",
+      "audio_url": ""
+    },
+    {
+      "id": 13,
+      "title": "Taraweeh Night 13",
+      "title_ar": "صلاة التراويح الليلة ١٣",
+      "surah": "Hud 1-49",
+      "surah_ar": "سورة هود ١ - ٤٩",
+      "audio_url": ""
+    },
+    {
+      "id": 14,
+      "title": "Taraweeh Night 14",
+      "title_ar": "صلاة التراويح الليلة ١٤",
+      "surah": "Hud 50-123",
+      "surah_ar": "سورة هود ٥٠ - ١٢٣",
+      "audio_url": ""
+    },
+    {
+      "id": 15,
+      "title": "Taraweeh Night 15",
+      "title_ar": "صلاة التراويح الليلة ١٥",
+      "surah": "Yusuf 1-57",
+      "surah_ar": "سورة يوسف ١ - ٥٧",
+      "audio_url": ""
+    },
+    {
+      "id": 16,
+      "title": "Taraweeh Night 16",
+      "title_ar": "صلاة التراويح الليلة ١٦",
+      "surah": "Yusuf 58 - Ra'd 18",
+      "surah_ar": "سورة يوسف ٥٨ - الرعد ١٨",
+      "audio_url": ""
+    },
+    {
+      "id": 17,
+      "title": "Taraweeh Night 17",
+      "title_ar": "صلاة التراويح الليلة ١٧",
+      "surah": "Ra'd 19 - Ibrahim",
+      "surah_ar": "سورة الرعد ١٩ - إبراهيم",
+      "audio_url": ""
+    },
+    {
+      "id": 18,
+      "title": "Taraweeh Night 18",
+      "title_ar": "صلاة التراويح الليلة ١٨",
+      "surah": "Hijr - Nahl 79",
+      "surah_ar": "سورة الحجر - النحل ٧٩",
+      "audio_url": ""
+    },
+    {
+      "id": 19,
+      "title": "Taraweeh Night 19",
+      "title_ar": "صلاة التراويح الليلة ١٩",
+      "surah": "Nahl 80 - Isra 96",
+      "surah_ar": "سورة النحل ٨٠ - الإسراء ٩٦",
+      "audio_url": ""
+    },
+    {
+      "id": 20,
+      "title": "Taraweeh Night 20",
+      "title_ar": "صلاة التراويح الليلة ٢٠",
+      "surah": "Isra 97 - Kahf",
+      "surah_ar": "سورة الإسراء ٩٧ - الكهف",
+      "audio_url": ""
+    },
+    {
+      "id": 21,
+      "title": "Taraweeh Night 21",
+      "title_ar": "صلاة التراويح الليلة ٢١",
+      "surah": "Maryam - Taha",
+      "surah_ar": "سورة مريم - طه",
+      "audio_url": ""
+    },
+    {
+      "id": 22,
+      "title": "Tahajjud Night 21",
+      "title_ar": "صلاة التهجد الليلة ٢١",
+      "surah": "Anbiya - Mu'minoon 75",
+      "surah_ar": "سورة الأنبياء - المؤمنون ٧٥",
+      "audio_url": ""
+    },
+    {
+      "id": 23,
+      "title": "Taraweeh Night 22",
+      "title_ar": "صلاة التراويح الليلة ٢٢",
+      "surah": "Mu'minoon 76 - Furqan 44",
+      "surah_ar": "سورة المؤمنون ٧٦ - الفرقان ٤٤",
+      "audio_url": ""
+    },
+    {
+      "id": 24,
+      "title": "Tahajjud Night 22",
+      "title_ar": "صلاة التهجد الليلة ٢٢",
+      "surah": "Furqan 45 - Qasas 28",
+      "surah_ar": "سورة الفرقان ٤٥ - القصص ٢٨",
+      "audio_url": ""
+    },
+    {
+      "id": 25,
+      "title": "Taraweeh Night 23",
+      "title_ar": "صلاة التراويح الليلة ٢٣",
+      "surah": "Qasas 29 - Ankabut",
+      "surah_ar": "سورة القصص ٢٩ - العنكبوت",
+      "audio_url": ""
+    },
+    {
+      "id": 26,
+      "title": "Tahajjud Night 23",
+      "title_ar": "صلاة التهجد الليلة ٢٣",
+      "surah": "Rum - Saba 30",
+      "surah_ar": "سورة الروم - سبأ ٣٠",
+      "audio_url": ""
+    },
+    {
+      "id": 27,
+      "title": "Taraweeh Night 24",
+      "title_ar": "صلاة التراويح الليلة ٢٤",
+      "surah": "Saba 31 - Saffat 113",
+      "surah_ar": "سورة سبأ ٣١ - الصافات ١١٣",
+      "audio_url": ""
+    },
+    {
+      "id": 28,
+      "title": "Tahajjud Night 24",
+      "title_ar": "صلاة التهجد الليلة ٢٤",
+      "surah": "Saffat 114 - Ghafir",
+      "surah_ar": "سورة الصافات ١١٤ - غافر",
+      "audio_url": ""
+    },
+    {
+      "id": 29,
+      "title": "Taraweeh Night 25",
+      "title_ar": "صلاة التراويح الليلة ٢٥",
+      "surah": "Fussilat - Zukhruf",
+      "surah_ar": "سورة فصلت - الزخرف",
+      "audio_url": ""
+    },
+    {
+      "id": 30,
+      "title": "Tahajjud Night 25",
+      "title_ar": "صلاة التهجد الليلة ٢٥",
+      "surah": "Dukhan - Qaf",
+      "surah_ar": "سورة الدخان - ق",
+      "audio_url": ""
+    },
+    {
+      "id": 31,
+      "title": "Taraweeh Night 26",
+      "title_ar": "صلاة التراويح الليلة ٢٦",
+      "surah": "Dhariyat - Waqi'ah",
+      "surah_ar": "سورة الذاريات - الواقعة",
+      "audio_url": ""
+    },
+    {
+      "id": 32,
+      "title": "Tahajjud Night 26",
+      "title_ar": "صلاة التهجد الليلة ٢٦",
+      "surah": "Hadid - Talaq",
+      "surah_ar": "سورة الحديد - الطلاق",
+      "audio_url": ""
+    },
+    {
+      "id": 33,
+      "title": "Taraweeh Night 27",
+      "title_ar": "صلاة التراويح الليلة ٢٧",
+      "surah": "Tahreem - Qiyamah",
+      "surah_ar": "سورة التحريم - القيامة",
+      "audio_url": ""
+    },
+    {
+      "id": 34,
+      "title": "Tahajjud Night 27",
+      "title_ar": "صلاة التهجد الليلة ٢٧",
+      "surah": "Insan - Nas",
+      "surah_ar": "سورة الإنسان - الناس",
+      "audio_url": ""
+    },
+    {
+      "id": 35,
+      "title": "Taraweeh Night 28",
+      "title_ar": "صلاة التراويح الليلة ٢٨",
+      "surah": "Baqarah 1-152",
+      "surah_ar": "سورة البقرة ١ - ١٥٢",
+      "audio_url": ""
+    },
+    {
+      "id": 36,
+      "title": "Tahajjud Night 28",
+      "title_ar": "صلاة التهجد الليلة ٢٨",
+      "surah": "Baqarah 153 - Ali Imran 32",
+      "surah_ar": "سورة البقرة ١٥٣ - آل عمران ٣٢",
+      "audio_url": ""
+    },
+    {
+      "id": 37,
+      "title": "Taraweeh Night 29",
+      "title_ar": "صلاة التراويح الليلة ٢٩",
+      "surah": "Ali Imran 33 - 200",
+      "surah_ar": "سورة آل عمران ٣٣ - ٢٠٠",
+      "audio_url": ""
+    },
+    {
+      "id": 38,
+      "title": "Tahajjud Night 29",
+      "title_ar": "صلاة التهجد الليلة ٢٩",
+      "surah": "Nisa'a - Ma'ida 40",
+      "surah_ar": "سورة النساء - المائدة ٤٠",
+      "audio_url": ""
+    }
+  ]
+}
