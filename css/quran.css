@@ -103,6 +103,170 @@ body {
   text-decoration: underline;
 }
 
+/*  MOBILE NAVIGATION - DESKTOP DEFAULTS */
+/* Hide mobile only elements on desktop */
+.menu-toggle,
+.sidebar-header,
+.menu-close {
+  display: none;
+}
+
+/* Overlay - hidden by default */
+.sidebar-overlay {
+  position: fixed;
+  inset: 0;
+  background-color: rgba(0, 0, 0, 0.45);
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 1000;
+}
+
+.sidebar-overlay.show {
+  opacity: 1;
+  visibility: visible;
+  pointer-events: auto;
+}
+
+/* MOBILE NAVIGATION */
+@media screen and (max-width: 768px) {
+  /* Navbar */
+  .navbar {
+    padding: 12px 20px;
+    z-index: 1001;
+  }
+
+  /* Hamburger button */
+  .menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    outline: none;
+    padding: 5px;
+    color: var(--color-primary);
+    font-size: 20px;
+    cursor: pointer;
+    line-height: 1;
+  }
+
+  .menu-toggle i {
+    display: block;
+  }
+
+  /* Sidebar */
+  .nav-right {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 260px;
+    max-width: 80%;
+    height: 100vh;
+    height: 100dvh;
+    background-color: var(--color-primary);
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: flex-start;
+    padding: 75px 20px 30px;
+    gap: 6px;
+    transform: translateX(100%);
+    transition: transform 0.35s ease;
+    z-index: 1002;
+    overflow-y: auto;
+  }
+
+  /* Open sidebar */
+  .nav-right.open {
+    transform: translateX(0);
+  }
+
+  /* Sidebar header */
+  .sidebar-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    right: 20px;
+    color: var(--color-text);
+    border-bottom: 1px solid var(--color-muted);
+    padding-bottom: 10px;
+  }
+
+  .sidebar-header span {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 600;
+  }
+
+
+  /* Close button */
+  .menu-close {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: transparent;
+    border: none;
+    outline: none;
+    padding: 5px;
+    color: var(--color-text);
+    font-size: 21px;
+    cursor: pointer;
+    line-height: 1;
+  }
+
+
+  /* Sidebar links */
+  .nav-right a {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 14px 15px;
+    color: var(--color-text);
+    text-decoration: none;
+    font-size: 15px;
+    border-radius: 10px;
+    position: relative;
+    transition: background-color 0.25s ease;
+  }
+
+  .nav-right a i {
+    width: 20px;
+    font-size: 16px;
+  }
+
+  /* Hover effect */
+  .nav-right a:hover {
+    background-color: var(--color-secondary);
+    text-decoration: none;
+  }
+
+  /* Active page */
+  .nav-right a#active {
+    background-color: var(--color-secondary);
+    color: var(--color-text);
+    text-decoration: none;
+    font-weight: 600;
+  }
+
+  /* Background overlay */
+  .sidebar-overlay.show {
+    opacity: 1;
+    visibility: visible;
+    pointer-events: auto;
+  }
+
+  /* Prevent background scrolling */
+  body.sidebar-open {
+    overflow: hidden;
+  }
+}
+
+
 /* QURAN PAGE TITLE */
 .hero {
   display: flex;

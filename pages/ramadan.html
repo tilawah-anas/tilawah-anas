@@ -11,51 +11,80 @@
     />
   </head>
   <body>
-
     <header>
 
       <!-- Navigation Bar -->
       <nav class="navbar">
         <div class="nav-left">
-          <a href="#"><img src="../assets/anas-pfp.jpg" alt="Anas" /></a>
+          <a href="#">
+            <img src="../assets/anas-pfp.jpg" alt="Anas" />
+          </a>
           <p>Sheikh Anas Al Emadi</p>
         </div>
 
-        <!-- Nav -->
-        <div class="nav-right">
+        <!-- Hamburger button -->
+        <button
+          class="menu-toggle"
+          id="menu-toggle"
+          aria-label="Open navigation menu"
+          aria-expanded="false"
+          aria-controls="nav-right"
+        >
+          <i class="fa-solid fa-bars"></i>
+        </button>
+
+        <!-- Navigation links -->
+        <div class="nav-right" id="nav-right">
+          <div class="sidebar-header">
+            <span>Navigation</span>
+
+            <button
+              class="menu-close"
+              id="menu-close"
+              aria-label="Close navigation menu"
+            >
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+          </div>
+
           <a href="../index.html">
             <i class="fa-solid fa-house"></i>
             <span>Home</span>
           </a>
-          <a href="quran.html" class="card">
+
+          <a href="quran.html">
             <i class="fa-solid fa-book-quran"></i>
             <span>Quran</span>
           </a>
+
           <a href="ramadan.html" id="active">
             <i class="fa-regular fa-moon"></i>
             <span>Ramadan</span>
           </a>
+
           <a href="jumuah.html">
             <i class="fa-solid fa-microphone-lines"></i>
             <span>Jumu'ah</span>
           </a>
+
           <a href="duroos.html">
             <i class="fa-solid fa-mosque"></i>
             <span>Duroos</span>
           </a>
         </div>
-
       </nav>
 
+      <!-- Background overlay -->
+      <div class="sidebar-overlay" id="sidebar-overlay"></div>
+      
     </header>
 
     <main>
-
       <section class="hero">
         <h1 class="quran-title">Ramadan Recordings</h1>
       </section>
 
-      <hr>
+      <hr />
 
       <section class="year-tabs">
         <button class="year-btn active" data-year="1446">1446 AH</button>
@@ -67,23 +96,35 @@
           <!-- JS fills this based on selected year -->
         </div>
       </section>
-      
     </main>
 
     <footer class="footer">
       <div class="social-links">
-        <a href="https://www.instagram.com/tilawah_anas" target="_blank"><i class="fa-brands fa-instagram"></i></a>
-        <a href="https://youtube.com/@anas.alemadi" target="_blank"><i class="fa-brands fa-youtube"></i></a>
-        <a href="https://www.tiktok.com/@tilawah_anas" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
-        <a href="https://open.spotify.com/show/4SCIhXY1uaJOA1KTtBuLnr?si=qJcpWvr6SriIQe-wH5o7fw" target="_blank"><i class="fa-brands fa-spotify"></i></a>
-        <a href="https://t.me/til4wah" target="_blank"><i class="fa-brands fa-telegram"></i></a>
+        <a href="https://www.instagram.com/tilawah_anas" target="_blank"
+          ><i class="fa-brands fa-instagram"></i
+        ></a>
+        <a href="https://youtube.com/@anas.alemadi" target="_blank"
+          ><i class="fa-brands fa-youtube"></i
+        ></a>
+        <a href="https://www.tiktok.com/@tilawah_anas" target="_blank"
+          ><i class="fa-brands fa-tiktok"></i
+        ></a>
+        <a
+          href="https://open.spotify.com/show/4SCIhXY1uaJOA1KTtBuLnr?si=qJcpWvr6SriIQe-wH5o7fw"
+          target="_blank"
+          ><i class="fa-brands fa-spotify"></i
+        ></a>
+        <a href="https://t.me/til4wah" target="_blank"
+          ><i class="fa-brands fa-telegram"></i
+        ></a>
       </div>
 
-      <hr>
+      <hr />
 
       <p>&copy; 2026 tilawah_anas. All Rights Reserved</p>
     </footer>
 
+    <script src="../js/nav.js"></script>
     <script type="module" src="../js/ramadan.js"></script>
   </body>
 </html>

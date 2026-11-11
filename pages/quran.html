@@ -13,37 +13,67 @@
 
       <!-- Navigation Bar -->
       <nav class="navbar">
-
         <div class="nav-left">
-          <a href="#"><img src="../assets/anas-pfp.jpg" alt="Anas"></a>
+          <a href="#">
+            <img src="../assets/anas-pfp.jpg" alt="Anas" />
+          </a>
           <p>Sheikh Anas Al Emadi</p>
         </div>
 
-        <!-- Nav -->
-        <div class="nav-right">
+        <!-- Hamburger button -->
+        <button
+          class="menu-toggle"
+          id="menu-toggle"
+          aria-label="Open navigation menu"
+          aria-expanded="false"
+          aria-controls="nav-right"
+        >
+          <i class="fa-solid fa-bars"></i>
+        </button>
+
+        <!-- Navigation links -->
+        <div class="nav-right" id="nav-right">
+          <div class="sidebar-header">
+            <span>Navigation</span>
+
+            <button
+              class="menu-close"
+              id="menu-close"
+              aria-label="Close navigation menu"
+            >
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+          </div>
+
           <a href="../index.html">
             <i class="fa-solid fa-house"></i>
             <span>Home</span>
           </a>
-          <a href="quran.html" class="card" id="active">
+
+          <a href="quran.html" id="active">
             <i class="fa-solid fa-book-quran"></i>
             <span>Quran</span>
           </a>
+
           <a href="ramadan.html">
             <i class="fa-regular fa-moon"></i>
             <span>Ramadan</span>
           </a>
+
           <a href="jumuah.html">
             <i class="fa-solid fa-microphone-lines"></i>
             <span>Jumu'ah</span>
           </a>
+
           <a href="duroos.html">
             <i class="fa-solid fa-mosque"></i>
             <span>Duroos</span>
           </a>
         </div>
-
       </nav>
+
+      <!-- Background overlay -->
+      <div class="sidebar-overlay" id="sidebar-overlay"></div>
 
     </header>
 
@@ -77,7 +107,7 @@
       <p>&copy; 2026 tilawah_anas. All Rights Reserved</p>
     </footer>
 
-    <script src="../script.js"></script>
+    <script src="../js/nav.js"></script>
     <script type="module" src="../js/data.js"></script>
 
   </body>
