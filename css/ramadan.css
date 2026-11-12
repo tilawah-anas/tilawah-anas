@@ -322,12 +322,6 @@ hr {
   color: #fff;
 }
 
-@media (max-width: 600px) {
-  .ramadan-grid {
-    grid-template-columns: 1fr;
-  }
-}
-
 /* RECORDINGS */
 .quran-library {
   padding: 15px 30px 60px;
@@ -450,4 +444,98 @@ footer p {
   margin: 8px 0;
   font-size: 14px;
   font-weight: 300;
+}
+
+/* MOBILE RESPONSIVENESS */
+@media screen and (max-width: 768px) {
+  /* Hero Section Scaling */
+  .hero {
+    margin-top: 60px;
+    padding: 40px 15px;
+    min-height: auto;
+  }
+
+  .quran-title {
+    font-size: 24px;
+  }
+
+  /* Year Tabs Scaling */
+  .year-tabs {
+    gap: 10px;
+    padding: 20px 0;
+  }
+
+  .year-btn {
+    padding: 8px 16px;
+    font-size: 14px;
+    border-width: 1px;
+  }
+
+  /* Library Container Padding */
+  .quran-library {
+    padding: 10px 15px 40px;
+  }
+
+  /* The Card */
+  .surah-card {
+    padding: 1rem;
+  }
+
+  /* The Player Text Row (English vs Arabic) */
+  .player-text {
+    margin-bottom: 15px;
+    padding: 0 2px;
+  }
+
+  /* English Title Scaling */
+  .surah-name-en {
+    font-size: 14px !important;
+    margin-bottom: 4px;
+  }
+
+  .surah-subtitle-en {
+    font-size: 12px !important;
+  }
+
+  /* Arabic Title Scaling */
+  .surah-name-ar {
+    font-size: 14px !important;
+  }
+
+  .surah-subtitle-ar {
+    font-size: 12px;
+  }
+
+  .title .surah-name-en {
+    line-height: 1.1;
+    margin: 0;
+  }
+
+  /* The special 1446 single title class */
+  .single-title .surah-name-en,
+  .single-title .surah-name-ar {
+    font-size: 15px;
+  }
+
+  /* Audio Player Height */
+  .surah-card audio {
+    height: 32px;
+  }
+}
+
+/* EXTRA SMALL PHONES */
+@media screen and (max-width: 400px) {
+  .quran-title {
+    font-size: 20px;
+  }
+
+  .surah-name-en,
+  .surah-name-ar {
+    font-size: 15px;
+  }
+
+  .surah-subtitle-en,
+  .surah-subtitle-ar {
+    font-size: 11px;
+  }
 }

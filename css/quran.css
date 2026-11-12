@@ -407,3 +407,65 @@ footer p {
   font-size: 14px;
   font-weight: 300;
 }
+
+
+/* MOBILE RESPONSIVENESS */
+@media screen and (max-width: 768px) {
+  
+  /* Hero Section Scaling */
+  .hero {
+    margin-top: 60px;
+    padding: 40px 15px;
+    min-height: auto;
+  }
+
+  .quran-title {
+    font-size: 24px;
+  }
+
+  /* Library Container Padding */
+  .quran-library {
+    padding: 10px 15px 40px;
+  }
+
+  /* The Card */
+  .surah-card {
+    padding: 1rem;
+  }
+
+  /* The Surah Title Row */
+  .surah-title {
+    margin-bottom: 8px;
+  }
+
+  /* English Title Scaling */
+  .surah-card span, 
+  .surah-card h3 {
+    font-size: 14px;
+  }
+
+  .surah-translation {
+    font-size: 10px;
+  }
+
+  /* Arabic Surah Name Scaling */
+  .surah-name-ar {
+    font-size: 32px;
+  }
+
+  /* Audio Player Height */
+  .surah-card audio {
+    height: 32px;
+  }
+}
+
+/* EXTRA SMALL PHONES */
+@media screen and (max-width: 400px) {
+  .quran-title {
+    font-size: 20px;
+  }
+
+  .surah-name-ar {
+    font-size: 28px;
+  }
+}
