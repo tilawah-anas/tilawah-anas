@@ -1,0 +1,86 @@
+{
+  "2026": {
+    "January": [
+      {
+        "date": "Jan 2",
+        "khutbah": {
+          "title": "The Rising Cost of Living",
+          "title_ar": "غلاء الأسعار",
+          "audio_url": "https://archive.org/download/anas-jumuah-2026_202611/Anas%20Khutbah/2026-01-02-khutbah.m4a"
+        },
+        "salah": {
+          "title": "Jumu'ah Prayer - Ending of Surah Ali-Imran",
+          "title_ar": "صلاة الجمعة - خواتيم سورة آل عمران",
+          "audio_url": "https://archive.org/download/anas-jumuah-2026_202611/Anas%20Khutbah/2026-01-02-salah.m4a"
+        }
+      },
+      {
+        "date": "Jan 9",
+        "khutbah": {
+          "title": "Incidents on the Pulpit During the Time of the Prophet ﷺ",
+          "title_ar": "أحداث وقعت على المنبر في عهد النبوة",
+          "audio_url": ""
+        },
+        "salah": {
+          "title": "Jumu'ah Prayer - Surah Al A'la & Al Ghashiyah",
+          "title_ar": "صلاة الجمعة - سورتيّ الأعلى والغاشية",
+          "audio_url": ""
+        }
+      },
+      {
+        "date": "Jan 16",
+        "khutbah": {
+          "title": "The Hour of Answered Du'a",
+          "title_ar": "ساعة الإستجابة",
+          "audio_url": ""
+        },
+        "salah": {
+          "title": "Jumu'ah Prayer - Surah Al A'la & Al Ghashiyah",
+          "title_ar": "صلاة الجمعة - سورتيّ الأعلى والغاشية",
+          "audio_url": ""
+        }
+      },
+      {
+        "date": "Jan 23",
+        "khutbah": {
+          "title": "What Has Been Narrated About Sha'ban",
+          "title_ar": "ما جاء في شعبان",
+          "audio_url": ""
+        },
+        "salah": {
+          "title": "Jumu'ah Prayer - Surah Al A'la & Al Ghashiyah",
+          "title_ar": "صلاة الجمعة - سورتيّ الأعلى والغاشية",
+          "audio_url": ""
+        }
+      },
+      {
+        "date": "Jan 30",
+        "khutbah": {
+          "title": "The Evil of Arrogance",
+          "title_ar": "آفة الكِبر",
+          "audio_url": ""
+        },
+        "salah": {
+          "title": "Jumu'ah Prayer - Surah Al Jumu'ah & Al Munafiqun",
+          "title_ar": "سورتيّ الجُمعة والمنافقون",
+          "audio_url": ""
+        }
+      }
+    ],
+    "February": [
+      {
+        "date": "Feb 6",
+        "khutbah": {
+          "title": "Incidents That Occurred in the Prophet's ﷺ Mihrab",
+          "title_ar": "أحداث وقعت في محراب رسول الله ﷺ",
+          "audio_url": ""
+        },
+        "salah": {
+          "title": "Jumu'ah Prayer - Surah Al A'la & Al Ghashiyah",
+          "title_ar": "صلاة الجمعة - سورتيّ الأعلى والغاشية",
+          "audio_url": ""
+        }
+      }
+    ]
+  }
+}

@@ -266,6 +266,29 @@ body {
   }
 }
 
+/* HERO */
+.hero {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  text-align: center;
+  padding: 40px 30px;
+  min-height: 150px;
+}
+
+.quran-title {
+  color: var(--color-text);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background-color: var(--color-muted);
+  width: 95%;
+  margin: 0 auto;
+}
 
 /* FOOTER */
 footer {
