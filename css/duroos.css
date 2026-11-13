@@ -456,3 +456,76 @@ footer p {
   font-size: 14px;
   font-weight: 300;
 }
+
+/* MOBILE RESPONSIVENESS */
+@media screen and (max-width: 768px) {
+  .hero {
+    margin-top: 60px; 
+    padding: 40px 15px;
+    min-height: auto;
+  }
+
+  .quran-title {
+    font-size: 24px;
+  }
+
+  .year-tabs {
+    gap: 10px;
+    padding: 20px 0;
+  }
+
+  .year-btn {
+    padding: 8px 16px;
+    font-size: 14px;
+    border-width: 1px;
+  }
+
+  .month-section {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  .quran-library {
+    padding: 10px 15px 40px;
+  }
+
+  .surah-card {
+    padding: 1rem;
+  }
+
+  .title-en {
+    gap: 4px;
+    margin-bottom: 4px;
+  }
+
+  .surah-name-en {
+    font-size: 13px;
+  }
+
+  .date {
+    font-size: 11px;
+  }
+
+  .surah-name-ar {
+    font-size: 20px;
+  }
+
+  .month-header {
+    font-size: 20px;
+  }
+
+  .surah-card audio {
+    height: 32px;
+  }
+}
+
+/* EXTRA SMALL PHONES */
+@media screen and (max-width: 400px) {
+  .quran-title {
+    font-size: 20px;
+  }
+
+  .surah-name-ar {
+    font-size: 18px;
+  }
+}
