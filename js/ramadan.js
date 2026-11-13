@@ -1,6 +1,4 @@
-// We wait for the HTML to load first
 document.addEventListener("DOMContentLoaded", () => {
-  // Check if we are actually on the Ramadan page
   const ramadanList = document.getElementById("ramadan-list");
   if (!ramadanList) return; // If not, stop here!
 
@@ -101,6 +99,5 @@ document.addEventListener("DOMContentLoaded", () => {
     }
   }
 
-  // Run the fetch!
   loadData();
 });

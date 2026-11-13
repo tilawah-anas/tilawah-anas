@@ -290,6 +290,126 @@ hr {
   margin: 0 auto;
 }
 
+/* YEAR TABS */
+.year-tabs {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  padding: 30px 0;
+}
+
+.year-btn {
+  padding: 10px 25px;
+  border: none;
+  border-radius: 4px;
+  background: transparent;
+  color: var(--color-text);
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+  border: 2px solid var(--color-muted);
+  transition:
+    background 0.2s ease,
+    color 0.2s ease;
+}
+
+.year-btn.active {
+  background: var(--color-muted);
+  color: #fff;
+}
+
+.year-btn:hover {
+  background: var(--color-muted);
+  color: #fff;
+}
+
+/* MONTH HEADERS */
+.month-section {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.month-header {
+  text-align: left;
+  color: var(--color-text);
+  margin-bottom: 10px;
+}
+
+.month-divider {
+  border: none;
+  height: 1px;
+  background-color: var(--color-secondary);
+  width: 100%;
+  margin: 0; 
+}
+
+/* RECORDINGS */
+.quran-library {
+  padding: 15px 30px 60px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  padding: 1rem 0;
+  margin-top: 0;
+}
+
+.surah-card {
+  background: var(--color-muted);
+  color: #ffffff;
+  border-radius: 12px;
+  padding: 1.25rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.surah-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 6px 0;
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.title-en {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  margin-bottom: 8px;
+}
+
+.date {
+  color: var(--color-secondary);
+  font-size: 13px;
+}
+
+.surah-name-ar {
+  font-family: var(--font-arabic);
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.4;
+}
+
+.surah-name-en {
+  font-size: 14px;
+  display: flex;
+  gap: 5px;
+  color: var(--color-secondary);
+}
+
+.surah-card audio {
+  width: 100%;
+  height: 36px;
+}
+
 /* FOOTER */
 footer {
   background-color: var(--color-text);

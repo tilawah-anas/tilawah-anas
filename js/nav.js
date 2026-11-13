@@ -1,4 +1,3 @@
-
 const menuToggle = document.getElementById("menu-toggle");
 const menuClose = document.getElementById("menu-close");
 const sidebar = document.getElementById("nav-right");

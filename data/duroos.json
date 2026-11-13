@@ -1,0 +1,26 @@
+{
+  "2026": {
+    "January": [
+      {
+        "date": "Jan 2",
+        "title": "Explanation of Kitab At-Tawheed",
+        "title_ar": "شرح كتاب التوحيد",
+        "audio_url": "https://archive.org/serve/anas-duroos-2026/2026-01-02-duroos.mp3"
+      },
+      {
+        "date": "Jan 5",
+        "title": "Explanation of Kitab At-Tawheed",
+        "title_ar": "شرح كتاب التوحيد",
+        "audio_url": "https://archive.org/serve/anas-duroos-2026/2026-01-05-duroos.mp3"
+      }
+    ],
+    "February": [
+      {
+        "date": "Feb 2",
+        "title": "Explanation of Riyad as-Salihin",
+        "title_ar": "شرح رياض الصالحين",
+        "audio_url": "https://archive.org/serve/anas-duroos-2026/2026-02-02-duroos.mp3"
+      }
+    ]
+  }
+}

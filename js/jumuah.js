@@ -35,8 +35,8 @@ function renderKhutbahs(yearData, year) {
         <!-- KHUTBAH SECTION -->
         <div class="audio-section">
           <div class="audio-header">
-            <h3 class="surah-name-en">${week.khutbah.title}</h3>
             <h3 class="surah-name-ar">${week.khutbah.title_ar}</h3>
+            <h3 class="surah-name-en">${week.khutbah.title}</h3>
           </div>
           <audio controls preload="metadata" src="${week.khutbah.audio_url}"></audio>
         </div>
@@ -46,8 +46,8 @@ function renderKhutbahs(yearData, year) {
         <!-- SALAH SECTION -->
         <div class="audio-section">
           <div class="audio-header">
-            <h3 class="surah-name-en">${week.salah.title}</h3>
             <h3 class="surah-name-ar">${week.salah.title_ar}</h3>
+            <h3 class="surah-name-en">${week.salah.title}</h3>
           </div>
           <audio controls preload="metadata" src="${week.salah.audio_url}"></audio>
         </div>
@@ -102,7 +102,7 @@ async function loadKhutbahData() {
       });
     });
   } catch (error) {
-    console.error("🚨 Failed to load Khutbah data:", error);
+    console.error("Failed to load Khutbah data:", error);
     khutbahList.innerHTML = "<p>Error loading recordings.</p>";
   }
 }

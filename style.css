@@ -276,6 +276,7 @@ body {
   text-align: center;
   padding: 40px 30px;
   min-height: 150px;
+  width: 100%;
 }
 
 .hero h1 {
@@ -395,4 +396,10 @@ footer p {
   margin: 8px 0;
   font-size: 14px;
   font-weight: 300;
+}
+
+@media screen and (max-width: 768px) {
+  .links {
+    width: 90%;
+  }
 }
